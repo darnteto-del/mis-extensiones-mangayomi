@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Komiwa",
+    "lang": "es",
+    "baseUrl": "https://komiwa.lat",
+    "apiUrl": "https://githubusercontent.com",
+    "iconUrl": "https://komiwa.lat/favicon.ico",
+    "type": "manga",
+    "version": "1.0.0"
+  }
+]
